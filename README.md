@@ -1,4 +1,4 @@
-# VoiceofCustomerMarketResearch
+# Voice of Customer Market Research
 
 The project provides a custom market survey and research example
 
