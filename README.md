@@ -1,6 +1,6 @@
 # VoiceofCustomerMarketResearch
 
-The project provides a market survey and research example
+The project provides a custom market survey and research example
 
 Confidential information is not displayed.
 
