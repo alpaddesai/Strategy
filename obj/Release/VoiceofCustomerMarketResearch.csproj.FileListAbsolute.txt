@@ -1,0 +1,14 @@
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\bin\Release\VoiceofCustomerMarketResearch.exe.config
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\bin\Release\VoiceofCustomerMarketResearch.exe
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\bin\Release\VoiceofCustomerMarketResearch.pdb
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch_MarkupCompile.cache
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch_MarkupCompile.lref
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch.g.resources
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch.Properties.Resources.resources
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch.exe
+C:\Users\ADG\source\repos\VoiceofCustomerMarketResearch\VoiceofCustomerMarketResearch\obj\Release\VoiceofCustomerMarketResearch.pdb
