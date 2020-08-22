@@ -6,4 +6,3 @@ Confidential information is not displayed. Please download the executable in htt
 
 ![image](VoC.png)
 
-Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
