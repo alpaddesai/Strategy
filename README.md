@@ -6,3 +6,4 @@ Confidential information is not displayed. Please download the executable in htt
 
 ![image](VoC.png)
 
+Additional details : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
