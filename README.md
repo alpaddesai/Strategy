@@ -1,4 +1,4 @@
-# Voice of Customer Market Research
+# Market Research Voice of Customer 
 
 The project provides a custom market survey and research example
 
@@ -12,4 +12,4 @@ Confidential information is not displayed. Please download the executable in htt
 ![image](image1.png)
 ![image](image2.png)
 
-Additional details : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
+Additional details : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/RealEstatePortfolioIdea
