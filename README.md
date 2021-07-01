@@ -8,5 +8,7 @@ Confidential information is not displayed. Please download the executable in htt
 ### Team project not a custom image.
 ![image](VoC.png)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
 
 Additional details : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/RealEstatePortfolioIdea
