@@ -12,4 +12,4 @@ Confidential information is not displayed. Please download the executable in htt
 
 ![image](USCopyrightCertificate.png)
 
-Additional details : https://github.com/alpaddesai/ManagementConsulting
+Additional details : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
